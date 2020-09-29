@@ -2,6 +2,8 @@
 
 ## Cuestiones
 
+чясмитьлд
+
 Problemas de traducción de la comunidad de archivos con el [rastreador tensorflow / docs-l10](https://github.com/tensorflow/docs-l10n/issues) .
 
 Para problemas generales de documentación, use el rastreador en el [repositorio de tensorflow / tensorflow](https://github.com/tensorflow/tensorflow/issues/new?template=20-documentation-issue.md) .
